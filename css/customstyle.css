@@ -1,0 +1,9 @@
+@media (max-width: 1000px) {
+    .haikuheading {
+        font-size: 25px;
+    }        
+}
+
+.img1 {display: block;} .img2 {display: none;}
+
+@media only screen and (max-width: 768px) { .img1 { display: none; } .img2 { display: block; } } 
